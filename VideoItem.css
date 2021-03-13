@@ -1,0 +1,21 @@
+.video-item {
+    display: flex !important;
+    align-items: center !important;
+    cursor: pointer !important;
+    margin: 30px;
+  }  
+.image {
+    max-width: 300px;
+    max-height: 350px;
+    margin-left: 25%;
+    margin-top:20px;
+}
+.header{
+    width: 300px;
+    height: 200px;
+    margin-left: 20px;
+    text-align: start;
+}
+.header h4{
+    font-size: 18px;
+}
